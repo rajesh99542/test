@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajesh99542/customer.git/static/css/main.aa314a9e.css",
+    "main.js": "/rajesh99542/customer.git/static/js/main.7d630798.js",
+    "static/js/787.4c220f9e.chunk.js": "/rajesh99542/customer.git/static/js/787.4c220f9e.chunk.js",
+    "index.html": "/rajesh99542/customer.git/index.html",
+    "main.aa314a9e.css.map": "/rajesh99542/customer.git/static/css/main.aa314a9e.css.map",
+    "main.7d630798.js.map": "/rajesh99542/customer.git/static/js/main.7d630798.js.map",
+    "787.4c220f9e.chunk.js.map": "/rajesh99542/customer.git/static/js/787.4c220f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa314a9e.css",
+    "static/js/main.7d630798.js"
+  ]
+}

@@ -1,0 +1,12 @@
+.NavBar {
+
+    width: 100%;
+    height: 30%;
+    margin-top: 5dp;
+}
+
+nav {
+    text-align: left;
+    text-decoration: none;
+
+}
